@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to bottom right, #faea84, #ffcc00);
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    text-align: center;
+}
